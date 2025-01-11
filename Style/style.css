@@ -355,12 +355,54 @@ padding: 20px;
 }
 .donate-btn{
     color: #006A50;
-    background-color: aqua;
+    background-color: rgb(191, 243, 222);
     font-size: 40px;
     font-weight: 600;
-    padding: 40px;
+    padding: 30px;
     border-radius: 10px;
     margin-right: 20px;
     margin-left: 20px;
     margin-bottom: 35px;
+}
+input[type="text"]{
+    padding: 25px 25px;
+    width: 1000px;
+    border: none;
+    box-shadow: 0px 55px 55px 55px rgba(0, 0, 0, 0.06);
+}
+.input-text{
+    text-align: center;
+    height: 70px;
+    margin-bottom: 40px;
+    align-items: center;
+}
+.dn-btn{
+  font-size: 20px;
+  padding: 20px;
+  width: 200px;
+  margin-left: 860px;
+  background-color: rgb(21, 212, 149);
+  border-radius: 15px;
+}
+.dn-btn:hover{
+    background-color: #006A50;
+    color: azure;
+}
+.Subscribe-part{
+    background-color: #C6E4D6;
+    border-radius: 20px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 250px;
+    height: 200px;
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 120px;
+}
+.sub-tittle{
+    font-size: 50px;
+    font-weight: 750;
 }
