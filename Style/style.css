@@ -82,10 +82,10 @@ nav{
 }
 /* Main Style */
 /* Pillars Section Style */
-.Pillars-Part{
+/* .Pillars-Part{
   margin-left: 118px;
   margin-right: 100px;
-}
+} */
 .pillars-tittle{
     font-size: 50px;
     font-weight: 810;
@@ -380,7 +380,7 @@ input[type="text"]{
     margin-top: 80px;
     margin-bottom: 80px;
     margin-left: 250px;
-    height: 200px;
+    height: 300px;
     width: 1200px;
     display: flex;
     flex-direction: column;
